@@ -1,0 +1,38 @@
+.Outline {
+  width: 80%;
+  background-color: #eee;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  box-shadow: 0 2px 1px #ccc;
+  margin: auto;
+  padding: 10px 0;
+  border: 1px solid #eee;
+  border-radius: 15px;
+  margin-top: auto;
+}
+.fscore {
+  padding: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.myButton {
+  background-color: white;
+  border-radius: 28px;
+  border: 1px solid #e9ab17;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+  align-items: center;
+  margin: 20px 0;
+}
+.myButton:hover {
+  background-color: black;
+  color: #e9ab17;
+  border: 1px solid black;
+}

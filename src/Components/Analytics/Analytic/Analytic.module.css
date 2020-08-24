@@ -1,0 +1,11 @@
+.Ana {
+  width: 50%;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  margin: 25px auto;
+  box-sizing: border-box;
+  background-color: #eee;
+  text-align: center;
+}
